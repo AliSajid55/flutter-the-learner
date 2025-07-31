@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073197926403",
+    "project_id": "the-lerners",
+    "storage_bucket": "the-lerners.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073197926403:android:906e6029d4c8830f626636",
+        "android_client_info": {
+          "package_name": "com.example.the_lerners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073197926403-eji0iducsmn9t5h0oudsmto5hmon64ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQOwuh7fddQJkrW5xnD5C2qBSRlzMn5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073197926403-eji0iducsmn9t5h0oudsmto5hmon64ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
